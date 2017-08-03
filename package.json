@@ -1,0 +1,19 @@
+{
+  "name": "forescaststanor",
+  "version": "1.0.0",
+  "description": "to improve my skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandro-c/forecaststanor.git"
+  },
+  "author": "Leandro Casarin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leandro-c/forecaststanor/issues"
+  },
+  "homepage": "https://github.com/leandro-c/forecaststanor#readme"
+}
